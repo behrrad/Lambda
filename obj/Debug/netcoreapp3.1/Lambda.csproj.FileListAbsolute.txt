@@ -1,0 +1,11 @@
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/bin/Debug/netcoreapp3.1/Lambda
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/bin/Debug/netcoreapp3.1/Lambda.deps.json
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/bin/Debug/netcoreapp3.1/Lambda.runtimeconfig.json
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/bin/Debug/netcoreapp3.1/Lambda.runtimeconfig.dev.json
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/bin/Debug/netcoreapp3.1/Lambda.dll
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/bin/Debug/netcoreapp3.1/Lambda.pdb
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/obj/Debug/netcoreapp3.1/Lambda.csprojAssemblyReference.cache
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/obj/Debug/netcoreapp3.1/Lambda.AssemblyInfoInputs.cache
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/obj/Debug/netcoreapp3.1/Lambda.AssemblyInfo.cs
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/obj/Debug/netcoreapp3.1/Lambda.dll
+/Users/abbaskhoramnazari/Documents/Behrad/Lambda/obj/Debug/netcoreapp3.1/Lambda.pdb
